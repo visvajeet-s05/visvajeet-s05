@@ -54,8 +54,7 @@ I'm driven by a vision to build a global reputation as a developer and innovator
 - 📧 Email: visva5112@gmail.com
 - 📱 Phone: 8148257496
 - 🌍 Location: Villivakkam, Chennai, Tamil Nadu  
-- 🔗 [LinkedIn] (www.linkedin.com/in/visvajeet-s) | [HackerRank] (https://www.hackerrank.com/profile/visvajeetoffici1)| [CodeChef] (https://www.codechef.com/users/visvajeet)
-
+- 🔗 [LinkedIn] (www.linkedin.com/in/visvajeet-s)
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate.*
