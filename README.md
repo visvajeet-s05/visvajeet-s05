@@ -6,14 +6,14 @@
 
 ## 💡 Projects I'm Proud Of
 
-📦 Inventory Management System
+## 📦 Inventory Management System
 > A comprehensive web-based solution for efficient stock and order management.
 - 🧠 Built with PHP, MySQL, HTML, CSS, and JavaScript.
 - 📊 Features include real-time stock tracking, order management, and revenue analytics.
 - 🔐 Secure user authentication and role-based access control.
 
 
-⚖️ Legal Mediverse
+## ⚖️ Legal Mediverse
 > An AI-powered platform connecting healthcare, law, and education.
 - Built with Next.js, Flask, and MongoDB for scalable, modular design.
 - Features HealthMate, EduMate, and LawMate for seamless sectoral integration.
